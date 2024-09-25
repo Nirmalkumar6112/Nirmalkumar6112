@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+👨🏻‍💻Open to Opportunities
 <!--
 **Nirmalkumar6112/Nirmalkumar6112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
