@@ -1,7 +1,5 @@
 ### Hi there 👋
 <p>👨🏻‍💻Open to Opportunities</p>
-  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Nirmalkumar6112&color=blue&style=flat" alt="Nirmal Kumar" /> </p>
 <!--
 **Nirmalkumar6112/Nirmalkumar6112** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
